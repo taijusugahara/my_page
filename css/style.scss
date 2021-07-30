@@ -313,6 +313,7 @@ body {
       p {
         text-align: center;
         padding-bottom: 15px;
+        line-height: 27px;
         span {
           font-weight: bold;
         }
@@ -441,7 +442,7 @@ body {
 .works {
   .web {
     text-align: center;
-    cursor: pointer;
+    // cursor: pointer;
     font-size: 20px;
     padding: 20px;
     font-weight: 500;
